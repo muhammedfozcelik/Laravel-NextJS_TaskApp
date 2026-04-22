@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Laravel-NextJS_TaskApp
 Laravel 13 REST API ve Next.js 16 frontend ile geliştirilmiş basit bir Görev Yönetim Modülü (CRUD + filtreleme).
 =======
@@ -90,4 +89,3 @@ npm run lint
 - API çıktıları `Resource` yapısı ile tek bir kontrata bağlandı.
 - Frontend tarafında component sorumlulukları ayrıldı (form, filtre, liste).
 - API katmanı ayrık tutuldu (`lib/api.ts`) ve UI'dan soyutlandı.
->>>>>>> d372f57 (ilk commit)
